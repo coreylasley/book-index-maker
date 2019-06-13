@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookIndexMaker", "BookIndexMaker\BookIndexMaker.csproj", "{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookIndexMakerCL", "BookIndexMakerCL\BookIndexMakerCL.csproj", "{28F5D789-88DE-406C-8C2A-CA933CB009F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Debug|x86.ActiveCfg = Debug|x86
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Debug|x86.Build.0 = Debug|x86
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Release|x86.ActiveCfg = Release|x86
+		{4DA97F48-2E07-4AD2-94CD-CF7673981A9A}.Release|x86.Build.0 = Release|x86
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{28F5D789-88DE-406C-8C2A-CA933CB009F6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB5C83D-3D25-47C3-A45F-8798A02C8DF1}
+	EndGlobalSection
+EndGlobal
